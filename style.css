@@ -1,0 +1,15 @@
+.page__example {
+  font-family: "Times New Roman", sans-serif;
+  font-size: 24px;
+  line-height: 26px;
+  margin: auto;
+  text-align: center;
+  color: #000;
+  opacity: 0.8;
+  transition: opacity 0.3s linear;
+}
+
+.page__example:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
