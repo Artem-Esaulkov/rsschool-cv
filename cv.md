@@ -6,8 +6,8 @@ My name is Artem Esaulkov. I'm 30 years old. Education - **higher, technical**.
 
 ### Contacts
 
-> [discord](Artem Esaulkov#5629), 
-> [vk.com](https://vk.com/artalex_yes), 
+> Discord: Artem Esaulkov#5629; 
+> [vk.com](https://vk.com/artalex_yes); 
 > adress: Russia, Sverdlovsk region, Novaya Lyalya
 
 ### My Features
